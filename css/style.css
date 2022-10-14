@@ -404,6 +404,10 @@ form textarea{
         display: none;
         
     } */
+    .main-head .container .icon1 i{
+        font-size: 15px;
+        margin: 0 3px;
+    }
     /* users */
     .users .cards{
         width: 50%;
